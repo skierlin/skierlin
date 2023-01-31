@@ -1,7 +1,7 @@
 - 👋 Hi, I’m QinFeng
 - 👀 I’m interested in Web3 && scientist 
 - 🌱 I’m currently learning evm
-- 📫 How to reach me ...
+- 📫 Wechat : Feng_Ferman
 
 <!---
 skierlin/skierlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
